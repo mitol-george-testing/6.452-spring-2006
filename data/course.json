@@ -1,0 +1,33 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Digital Systems"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Telecommunications"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "4a2475cf-eaf4-4d25-36b6-78b23d1d4399"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Principles of Wireless Communications",
+  "course_description": "This course is an introduction to the design, analysis, and fundamental limits of wireless transmission systems. Topics to be covered include: wireless channel and system models; fading and diversity; resource management and power control; multiple-antenna and MIMO systems; space-time codes and decoding algorithms; multiple-access techniques and multiuser detection; broadcast codes and precoding; cellular and ad-hoc network topologies; OFDM and ultrawideband systems; and architectural issues.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.452",
+  "learning_resource_types": [
+    "Projects",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
